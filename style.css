@@ -1,0 +1,62 @@
+body{
+}
+.part1{
+    background-image: url(./4hh.jpg);
+    height: 100vh;
+}
+.pass{
+    display: flex;
+    flex-direction: column;
+
+}
+.part1{
+    /* margin:40%; */
+}
+.h1{
+    color: white;
+    font-size: 30px;
+    margin-left: 65px;
+}
+.child input{
+height: 30px;
+width: 250px;
+margin-bottom: 2%;
+}
+.login{
+    height: 50px;
+    width: 258px;
+    background-color: blue;
+    color: white;
+}
+.log{
+    padding-left: 90px;
+    color: white;
+}
+.fb{
+    height: 30px;
+    width:126px ;
+    background-color: blue;
+    color: white;
+}
+.insta{
+    height: 30px;
+    width: 126px;
+    background-color: red;
+    color: white;
+}
+.end{
+    padding-left: 26px;
+    color: white;
+    font-style: none;
+}
+.end a{
+    text-decoration: none;
+}
+.ptag{
+    color: white;
+}
+.child{
+    margin-left: 600px;
+    padding-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
